@@ -1,3 +1,5 @@
 # ADVANCE-EXCEL
-assignments
+assignments 
 adventure works project
+stock market analysis project
+
